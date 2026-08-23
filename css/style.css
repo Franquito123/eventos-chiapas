@@ -9,6 +9,7 @@ header {
     color: white;
     padding: 10px;
 }
+ feature/footer
 
 footer {
     text-align: center;
@@ -19,4 +20,11 @@ footer {
 }
 footer a {
     color: #4da6ff;
+
+form {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    max-width: 300px;
+ main
 }
