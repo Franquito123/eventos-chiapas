@@ -9,3 +9,9 @@ header {
     color: white;
     padding: 10px;
 }
+form {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    max-width: 300px;
+}
